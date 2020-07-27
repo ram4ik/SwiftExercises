@@ -13,6 +13,7 @@
 		959BFC5524CEA9FC00202677 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959BFC5424CEA9FC00202677 /* Preview Assets.xcassets */; };
 		959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC5D24CEAA6600202677 /* UniqueSimbols.swift */; };
 		959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC5F24CEAEF300202677 /* StringIsPalidrom.swift */; };
+		959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		959BFC5624CEA9FC00202677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		959BFC5D24CEAA6600202677 /* UniqueSimbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSimbols.swift; sourceTree = "<group>"; };
 		959BFC5F24CEAEF300202677 /* StringIsPalidrom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringIsPalidrom.swift; sourceTree = "<group>"; };
+		959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdenticalTwoStrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				959BFC5D24CEAA6600202677 /* UniqueSimbols.swift */,
 				959BFC5F24CEAEF300202677 /* StringIsPalidrom.swift */,
+				959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
 				959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */,
 				959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */,
+				959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

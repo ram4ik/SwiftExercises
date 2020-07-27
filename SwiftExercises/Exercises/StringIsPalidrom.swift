@@ -7,9 +7,12 @@
 
 import Foundation
 
-func check(input: String) -> Bool {
-    
-    let lowerCased = input.lowercased()
-    
-    return String(lowerCased.reversed()) == lowerCased
+class StringIsPalidrom {
+
+    func check(input: String) -> Bool {
+        
+        let lowerCased = input.lowercased()
+        
+        return String(lowerCased.reversed()) == lowerCased
+    }
 }

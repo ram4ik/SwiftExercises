@@ -7,21 +7,24 @@
 
 import Foundation
 
-func sortOne(input: String) -> Bool {
-    
-    var checkedSymbols = [Character]()
-    
-    for symbol in input {
-        if checkedSymbols.contains(symbol) {
-            return false
+class UniqueSimbols {
+
+    func sortOne(input: String) -> Bool {
+        
+        var checkedSymbols = [Character]()
+        
+        for symbol in input {
+            if checkedSymbols.contains(symbol) {
+                return false
+            }
+            
+            checkedSymbols.append(symbol)
         }
         
-        checkedSymbols.append(symbol)
+        return true
     }
-    
-    return true
-}
 
-func sortTwo(input: String) -> Bool {
-    return Set(input).count == input.count
+    func sortTwo(input: String) -> Bool {
+        return Set(input).count == input.count
+    }
 }
