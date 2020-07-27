@@ -15,6 +15,7 @@
 		959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC5F24CEAEF300202677 /* StringIsPalidrom.swift */; };
 		959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */; };
 		959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6324CEB74B00202677 /* SymbolsInString.swift */; };
+		959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6524CEBE5E00202677 /* DeleteSameSymbols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		959BFC5F24CEAEF300202677 /* StringIsPalidrom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringIsPalidrom.swift; sourceTree = "<group>"; };
 		959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdenticalTwoStrings.swift; sourceTree = "<group>"; };
 		959BFC6324CEB74B00202677 /* SymbolsInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsInString.swift; sourceTree = "<group>"; };
+		959BFC6524CEBE5E00202677 /* DeleteSameSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteSameSymbols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				959BFC5F24CEAEF300202677 /* StringIsPalidrom.swift */,
 				959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */,
 				959BFC6324CEB74B00202677 /* SymbolsInString.swift */,
+				959BFC6524CEBE5E00202677 /* DeleteSameSymbols.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */,
 				959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
+				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
