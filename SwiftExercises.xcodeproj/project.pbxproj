@@ -16,6 +16,9 @@
 		959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */; };
 		959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6324CEB74B00202677 /* SymbolsInString.swift */; };
 		959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6524CEBE5E00202677 /* DeleteSameSymbols.swift */; };
+		959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6724CEE5C600202677 /* ReducingNumberOfSpaces.swift */; };
+		959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6924CEEA4B00202677 /* RotateString.swift */; };
+		959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6B24CEEC3400202677 /* StringIsPangram.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,9 @@
 		959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdenticalTwoStrings.swift; sourceTree = "<group>"; };
 		959BFC6324CEB74B00202677 /* SymbolsInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsInString.swift; sourceTree = "<group>"; };
 		959BFC6524CEBE5E00202677 /* DeleteSameSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteSameSymbols.swift; sourceTree = "<group>"; };
+		959BFC6724CEE5C600202677 /* ReducingNumberOfSpaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducingNumberOfSpaces.swift; sourceTree = "<group>"; };
+		959BFC6924CEEA4B00202677 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
+		959BFC6B24CEEC3400202677 /* StringIsPangram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringIsPangram.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +94,9 @@
 				959BFC6124CEB14A00202677 /* IdenticalTwoStrings.swift */,
 				959BFC6324CEB74B00202677 /* SymbolsInString.swift */,
 				959BFC6524CEBE5E00202677 /* DeleteSameSymbols.swift */,
+				959BFC6724CEE5C600202677 /* ReducingNumberOfSpaces.swift */,
+				959BFC6924CEEA4B00202677 /* RotateString.swift */,
+				959BFC6B24CEEC3400202677 /* StringIsPangram.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -161,13 +170,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */,
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
 				959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */,
 				959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */,
 				959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */,
 				959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */,
+				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
+				959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
