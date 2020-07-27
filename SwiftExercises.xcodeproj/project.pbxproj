@@ -20,6 +20,7 @@
 		959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6924CEEA4B00202677 /* RotateString.swift */; };
 		959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6B24CEEC3400202677 /* StringIsPangram.swift */; };
 		959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */; };
+		959BFC7024CEFB3600202677 /* NotMOreThatThreeLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		959BFC6924CEEA4B00202677 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
 		959BFC6B24CEEC3400202677 /* StringIsPangram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringIsPangram.swift; sourceTree = "<group>"; };
 		959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfVowelsAndConstants.swift; sourceTree = "<group>"; };
+		959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotMOreThatThreeLetters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				959BFC6924CEEA4B00202677 /* RotateString.swift */,
 				959BFC6B24CEEC3400202677 /* StringIsPangram.swift */,
 				959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */,
+				959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
 				959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */,
 				959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */,
+				959BFC7024CEFB3600202677 /* NotMOreThatThreeLetters.swift in Sources */,
 				959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */,
 				959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */,
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
