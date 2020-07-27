@@ -11,6 +11,7 @@
 		959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC4F24CEA9FA00202677 /* ContentView.swift */; };
 		959BFC5224CEA9FC00202677 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959BFC5124CEA9FC00202677 /* Assets.xcassets */; };
 		959BFC5524CEA9FC00202677 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959BFC5424CEA9FC00202677 /* Preview Assets.xcassets */; };
+		959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC5D24CEAA6600202677 /* UniqueSimbols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		959BFC5124CEA9FC00202677 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		959BFC5424CEA9FC00202677 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		959BFC5624CEA9FC00202677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		959BFC5D24CEAA6600202677 /* UniqueSimbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSimbols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		959BFC4C24CEA9FA00202677 /* SwiftExercises */ = {
 			isa = PBXGroup;
 			children = (
+				959BFC5C24CEAA2000202677 /* Exercises */,
 				959BFC4D24CEA9FA00202677 /* SwiftExercisesApp.swift */,
 				959BFC4F24CEA9FA00202677 /* ContentView.swift */,
 				959BFC5124CEA9FC00202677 /* Assets.xcassets */,
@@ -67,6 +70,14 @@
 				959BFC5424CEA9FC00202677 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		959BFC5C24CEAA2000202677 /* Exercises */ = {
+			isa = PBXGroup;
+			children = (
+				959BFC5D24CEAA6600202677 /* UniqueSimbols.swift */,
+			);
+			path = Exercises;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,6 +151,7 @@
 			files = (
 				959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */,
 				959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */,
+				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
