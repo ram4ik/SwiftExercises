@@ -25,6 +25,7 @@
 		959BFC7424CF083500202677 /* RepeatedSymbolsInLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7324CF083500202677 /* RepeatedSymbolsInLine.swift */; };
 		959BFC7624CF0C5F00202677 /* ReverseWordsInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7524CF0C5F00202677 /* ReverseWordsInString.swift */; };
 		959BFC7824CF0FDA00202677 /* PrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7724CF0FDA00202677 /* PrimeNumber.swift */; };
+		959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7924CF158900202677 /* NumbersInLine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		959BFC7324CF083500202677 /* RepeatedSymbolsInLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedSymbolsInLine.swift; sourceTree = "<group>"; };
 		959BFC7524CF0C5F00202677 /* ReverseWordsInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseWordsInString.swift; sourceTree = "<group>"; };
 		959BFC7724CF0FDA00202677 /* PrimeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeNumber.swift; sourceTree = "<group>"; };
+		959BFC7924CF158900202677 /* NumbersInLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersInLine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				959BFC7324CF083500202677 /* RepeatedSymbolsInLine.swift */,
 				959BFC7524CF0C5F00202677 /* ReverseWordsInString.swift */,
 				959BFC7724CF0FDA00202677 /* PrimeNumber.swift */,
+				959BFC7924CF158900202677 /* NumbersInLine.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */,
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
+				959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
 				959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */,
 				959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */,
