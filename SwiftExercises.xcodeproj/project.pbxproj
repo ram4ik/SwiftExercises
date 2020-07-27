@@ -19,6 +19,7 @@
 		959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6724CEE5C600202677 /* ReducingNumberOfSpaces.swift */; };
 		959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6924CEEA4B00202677 /* RotateString.swift */; };
 		959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6B24CEEC3400202677 /* StringIsPangram.swift */; };
+		959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		959BFC6724CEE5C600202677 /* ReducingNumberOfSpaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducingNumberOfSpaces.swift; sourceTree = "<group>"; };
 		959BFC6924CEEA4B00202677 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
 		959BFC6B24CEEC3400202677 /* StringIsPangram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringIsPangram.swift; sourceTree = "<group>"; };
+		959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfVowelsAndConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				959BFC6724CEE5C600202677 /* ReducingNumberOfSpaces.swift */,
 				959BFC6924CEEA4B00202677 /* RotateString.swift */,
 				959BFC6B24CEEC3400202677 /* StringIsPangram.swift */,
+				959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
+				959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */,
 				959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
