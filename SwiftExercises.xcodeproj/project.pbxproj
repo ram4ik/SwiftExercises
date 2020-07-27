@@ -21,6 +21,7 @@
 		959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6B24CEEC3400202677 /* StringIsPangram.swift */; };
 		959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */; };
 		959BFC7024CEFB3600202677 /* NotMOreThatThreeLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */; };
+		959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7124CF02D500202677 /* MostLongPrefix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		959BFC6B24CEEC3400202677 /* StringIsPangram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringIsPangram.swift; sourceTree = "<group>"; };
 		959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfVowelsAndConstants.swift; sourceTree = "<group>"; };
 		959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotMOreThatThreeLetters.swift; sourceTree = "<group>"; };
+		959BFC7124CF02D500202677 /* MostLongPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostLongPrefix.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				959BFC6B24CEEC3400202677 /* StringIsPangram.swift */,
 				959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */,
 				959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */,
+				959BFC7124CF02D500202677 /* MostLongPrefix.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
+				959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */,
 				959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */,
 				959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */,
 			);
