@@ -22,6 +22,8 @@
 		959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */; };
 		959BFC7024CEFB3600202677 /* NotMOreThatThreeLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */; };
 		959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7124CF02D500202677 /* MostLongPrefix.swift */; };
+		959BFC7424CF083500202677 /* RepeatedSymbolsInLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7324CF083500202677 /* RepeatedSymbolsInLine.swift */; };
+		959BFC7624CF0C5F00202677 /* ReverseWordsInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7524CF0C5F00202677 /* ReverseWordsInString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,8 @@
 		959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfVowelsAndConstants.swift; sourceTree = "<group>"; };
 		959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotMOreThatThreeLetters.swift; sourceTree = "<group>"; };
 		959BFC7124CF02D500202677 /* MostLongPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostLongPrefix.swift; sourceTree = "<group>"; };
+		959BFC7324CF083500202677 /* RepeatedSymbolsInLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedSymbolsInLine.swift; sourceTree = "<group>"; };
+		959BFC7524CF0C5F00202677 /* ReverseWordsInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseWordsInString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				959BFC6D24CEF45200202677 /* NumberOfVowelsAndConstants.swift */,
 				959BFC6F24CEFB3600202677 /* NotMOreThatThreeLetters.swift */,
 				959BFC7124CF02D500202677 /* MostLongPrefix.swift */,
+				959BFC7324CF083500202677 /* RepeatedSymbolsInLine.swift */,
+				959BFC7524CF0C5F00202677 /* ReverseWordsInString.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -179,6 +185,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				959BFC7624CF0C5F00202677 /* ReverseWordsInString.swift in Sources */,
 				959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */,
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
 				959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */,
@@ -191,6 +198,7 @@
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
 				959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */,
 				959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */,
+				959BFC7424CF083500202677 /* RepeatedSymbolsInLine.swift in Sources */,
 				959BFC6C24CEEC3400202677 /* StringIsPangram.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
