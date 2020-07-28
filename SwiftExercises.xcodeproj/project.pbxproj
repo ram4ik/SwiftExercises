@@ -29,6 +29,7 @@
 		959BFC7C24CFFFCA00202677 /* AddNumbersInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7B24CFFFCA00202677 /* AddNumbersInString.swift */; };
 		959BFC7E24D002C900202677 /* SquareRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7D24D002C900202677 /* SquareRoot.swift */; };
 		959BFC8024D004E900202677 /* SubtractionWithoutOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */; };
+		959BFC8224D0076500202677 /* RepetitionOfNumbersInCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		959BFC7B24CFFFCA00202677 /* AddNumbersInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNumbersInString.swift; sourceTree = "<group>"; };
 		959BFC7D24D002C900202677 /* SquareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareRoot.swift; sourceTree = "<group>"; };
 		959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractionWithoutOperator.swift; sourceTree = "<group>"; };
+		959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepetitionOfNumbersInCollection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				959BFC7B24CFFFCA00202677 /* AddNumbersInString.swift */,
 				959BFC7D24D002C900202677 /* SquareRoot.swift */,
 				959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */,
+				959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */,
 				959BFC7C24CFFFCA00202677 /* AddNumbersInString.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
+				959BFC8224D0076500202677 /* RepetitionOfNumbersInCollection.swift in Sources */,
 				959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */,
 				959BFC6E24CEF45200202677 /* NumberOfVowelsAndConstants.swift in Sources */,
 				959BFC7424CF083500202677 /* RepeatedSymbolsInLine.swift in Sources */,
