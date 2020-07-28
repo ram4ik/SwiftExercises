@@ -31,6 +31,7 @@
 		959BFC8024D004E900202677 /* SubtractionWithoutOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */; };
 		959BFC8224D0076500202677 /* RepetitionOfNumbersInCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */; };
 		959BFC8424D00A9400202677 /* SortCollectionAscendingToN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */; };
+		959BFC8624D0111100202677 /* SortingArrayOfStringsByLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractionWithoutOperator.swift; sourceTree = "<group>"; };
 		959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepetitionOfNumbersInCollection.swift; sourceTree = "<group>"; };
 		959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCollectionAscendingToN.swift; sourceTree = "<group>"; };
+		959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingArrayOfStringsByLength.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 				959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */,
 				959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */,
 				959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */,
+				959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */,
 				959BFC7824CF0FDA00202677 /* PrimeNumber.swift in Sources */,
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
+				959BFC8624D0111100202677 /* SortingArrayOfStringsByLength.swift in Sources */,
 				959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */,
 				959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */,
 				959BFC7024CEFB3600202677 /* NotMOreThatThreeLetters.swift in Sources */,
