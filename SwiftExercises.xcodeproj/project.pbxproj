@@ -30,6 +30,7 @@
 		959BFC7E24D002C900202677 /* SquareRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7D24D002C900202677 /* SquareRoot.swift */; };
 		959BFC8024D004E900202677 /* SubtractionWithoutOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */; };
 		959BFC8224D0076500202677 /* RepetitionOfNumbersInCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */; };
+		959BFC8424D00A9400202677 /* SortCollectionAscendingToN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		959BFC7D24D002C900202677 /* SquareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareRoot.swift; sourceTree = "<group>"; };
 		959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractionWithoutOperator.swift; sourceTree = "<group>"; };
 		959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepetitionOfNumbersInCollection.swift; sourceTree = "<group>"; };
+		959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCollectionAscendingToN.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				959BFC7D24D002C900202677 /* SquareRoot.swift */,
 				959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */,
 				959BFC8124D0076500202677 /* RepetitionOfNumbersInCollection.swift */,
+				959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 				959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */,
+				959BFC8424D00A9400202677 /* SortCollectionAscendingToN.swift in Sources */,
 				959BFC7C24CFFFCA00202677 /* AddNumbersInString.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
 				959BFC8224D0076500202677 /* RepetitionOfNumbersInCollection.swift in Sources */,
