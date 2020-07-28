@@ -33,6 +33,7 @@
 		959BFC8424D00A9400202677 /* SortCollectionAscendingToN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */; };
 		959BFC8624D0111100202677 /* SortingArrayOfStringsByLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */; };
 		959BFC8824D012B900202677 /* MedianValueOfTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */; };
+		959BFC8A24D0149200202677 /* RecreateMethodFirstIndexOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCollectionAscendingToN.swift; sourceTree = "<group>"; };
 		959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingArrayOfStringsByLength.swift; sourceTree = "<group>"; };
 		959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianValueOfTheArray.swift; sourceTree = "<group>"; };
+		959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecreateMethodFirstIndexOf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				959BFC8324D00A9400202677 /* SortCollectionAscendingToN.swift */,
 				959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */,
 				959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */,
+				959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 				959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */,
+				959BFC8A24D0149200202677 /* RecreateMethodFirstIndexOf.swift in Sources */,
 				959BFC8424D00A9400202677 /* SortCollectionAscendingToN.swift in Sources */,
 				959BFC7C24CFFFCA00202677 /* AddNumbersInString.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
