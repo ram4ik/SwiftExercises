@@ -28,6 +28,7 @@
 		959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7924CF158900202677 /* NumbersInLine.swift */; };
 		959BFC7C24CFFFCA00202677 /* AddNumbersInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7B24CFFFCA00202677 /* AddNumbersInString.swift */; };
 		959BFC7E24D002C900202677 /* SquareRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7D24D002C900202677 /* SquareRoot.swift */; };
+		959BFC8024D004E900202677 /* SubtractionWithoutOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		959BFC7924CF158900202677 /* NumbersInLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersInLine.swift; sourceTree = "<group>"; };
 		959BFC7B24CFFFCA00202677 /* AddNumbersInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNumbersInString.swift; sourceTree = "<group>"; };
 		959BFC7D24D002C900202677 /* SquareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareRoot.swift; sourceTree = "<group>"; };
+		959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractionWithoutOperator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				959BFC7924CF158900202677 /* NumbersInLine.swift */,
 				959BFC7B24CFFFCA00202677 /* AddNumbersInString.swift */,
 				959BFC7D24D002C900202677 /* SquareRoot.swift */,
+				959BFC7F24D004E900202677 /* SubtractionWithoutOperator.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				959BFC7E24D002C900202677 /* SquareRoot.swift in Sources */,
 				959BFC7624CF0C5F00202677 /* ReverseWordsInString.swift in Sources */,
+				959BFC8024D004E900202677 /* SubtractionWithoutOperator.swift in Sources */,
 				959BFC6A24CEEA4B00202677 /* RotateString.swift in Sources */,
 				959BFC7824CF0FDA00202677 /* PrimeNumber.swift in Sources */,
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
