@@ -14,6 +14,11 @@ class SubtractionWithoutOperator {
     }
     
     func substractionTwo(subtract: Int, from: Int) -> Int {
+        
+        // 64 is (01000000)
+        // ~ replace (all 0 to 1) and (all 1 to 0)
+        // ~64 is (10111111) == -65
+        
         return from + (~subtract + 1)
     }
 }
