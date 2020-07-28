@@ -34,6 +34,7 @@
 		959BFC8624D0111100202677 /* SortingArrayOfStringsByLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */; };
 		959BFC8824D012B900202677 /* MedianValueOfTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */; };
 		959BFC8A24D0149200202677 /* RecreateMethodFirstIndexOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */; };
+		959BFC8C24D0163100202677 /* RecreateMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC8B24D0163100202677 /* RecreateMin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingArrayOfStringsByLength.swift; sourceTree = "<group>"; };
 		959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianValueOfTheArray.swift; sourceTree = "<group>"; };
 		959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecreateMethodFirstIndexOf.swift; sourceTree = "<group>"; };
+		959BFC8B24D0163100202677 /* RecreateMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecreateMin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				959BFC8524D0111100202677 /* SortingArrayOfStringsByLength.swift */,
 				959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */,
 				959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */,
+				959BFC8B24D0163100202677 /* RecreateMin.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				959BFC7824CF0FDA00202677 /* PrimeNumber.swift in Sources */,
 				959BFC6024CEAEF300202677 /* StringIsPalidrom.swift in Sources */,
 				959BFC8824D012B900202677 /* MedianValueOfTheArray.swift in Sources */,
+				959BFC8C24D0163100202677 /* RecreateMin.swift in Sources */,
 				959BFC8624D0111100202677 /* SortingArrayOfStringsByLength.swift in Sources */,
 				959BFC6424CEB74B00202677 /* SymbolsInString.swift in Sources */,
 				959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */,
