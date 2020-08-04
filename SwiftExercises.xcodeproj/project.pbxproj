@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9593F20D24D960B200D0E507 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9593F20C24D960B200D0E507 /* TwoSum.swift */; };
+		9593F20F24D9638900D0E507 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9593F20E24D9638900D0E507 /* ReverseInteger.swift */; };
 		959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC4D24CEA9FA00202677 /* SwiftExercisesApp.swift */; };
 		959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC4F24CEA9FA00202677 /* ContentView.swift */; };
 		959BFC5224CEA9FC00202677 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959BFC5124CEA9FC00202677 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		9593F20C24D960B200D0E507 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
+		9593F20E24D9638900D0E507 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
 		959BFC4A24CEA9FA00202677 /* SwiftExercises.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftExercises.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		959BFC4D24CEA9FA00202677 /* SwiftExercisesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftExercisesApp.swift; sourceTree = "<group>"; };
 		959BFC4F24CEA9FA00202677 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */,
 				959BFC8B24D0163100202677 /* RecreateMin.swift */,
 				9593F20C24D960B200D0E507 /* TwoSum.swift */,
+				9593F20E24D9638900D0E507 /* ReverseInteger.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				959BFC8A24D0149200202677 /* RecreateMethodFirstIndexOf.swift in Sources */,
 				959BFC8424D00A9400202677 /* SortCollectionAscendingToN.swift in Sources */,
 				959BFC7C24CFFFCA00202677 /* AddNumbersInString.swift in Sources */,
+				9593F20F24D9638900D0E507 /* ReverseInteger.swift in Sources */,
 				959BFC6624CEBE5E00202677 /* DeleteSameSymbols.swift in Sources */,
 				959BFC8224D0076500202677 /* RepetitionOfNumbersInCollection.swift in Sources */,
 				959BFC7224CF02D500202677 /* MostLongPrefix.swift in Sources */,
