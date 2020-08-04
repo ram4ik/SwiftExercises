@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9593F20D24D960B200D0E507 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9593F20C24D960B200D0E507 /* TwoSum.swift */; };
 		959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC4D24CEA9FA00202677 /* SwiftExercisesApp.swift */; };
 		959BFC5024CEA9FA00202677 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959BFC4F24CEA9FA00202677 /* ContentView.swift */; };
 		959BFC5224CEA9FC00202677 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959BFC5124CEA9FC00202677 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9593F20C24D960B200D0E507 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		959BFC4A24CEA9FA00202677 /* SwiftExercises.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftExercises.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		959BFC4D24CEA9FA00202677 /* SwiftExercisesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftExercisesApp.swift; sourceTree = "<group>"; };
 		959BFC4F24CEA9FA00202677 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				959BFC8724D012B900202677 /* MedianValueOfTheArray.swift */,
 				959BFC8924D0149200202677 /* RecreateMethodFirstIndexOf.swift */,
 				959BFC8B24D0163100202677 /* RecreateMin.swift */,
+				9593F20C24D960B200D0E507 /* TwoSum.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				959BFC7024CEFB3600202677 /* NotMOreThatThreeLetters.swift in Sources */,
 				959BFC4E24CEA9FA00202677 /* SwiftExercisesApp.swift in Sources */,
 				959BFC6224CEB14A00202677 /* IdenticalTwoStrings.swift in Sources */,
+				9593F20D24D960B200D0E507 /* TwoSum.swift in Sources */,
 				959BFC6824CEE5C600202677 /* ReducingNumberOfSpaces.swift in Sources */,
 				959BFC5E24CEAA6600202677 /* UniqueSimbols.swift in Sources */,
 				959BFC7A24CF158900202677 /* NumbersInLine.swift in Sources */,
